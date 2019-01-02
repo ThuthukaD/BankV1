@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#263238</color>
+    <color name="colorAccent">#FF0099CC</color>
+
+    <color name="colorLargePrimary">#1f8500</color>
+    <color name="colorLargePrimaryDark">#1c5700</color>
+
+    <color name="colorExtraLargePrimary">#500085</color>
+    <color name="colorExtraLargePrimaryDark">#300057</color>
+
+    <color name="colorExperiment">#757575</color>
+    <color name="colorExperimentDark">#616161</color>
+</resources>
